@@ -9,8 +9,8 @@
 # All imports must either be absolute paths starting with `/`, or paths relative
 # to the user's home directory starting with `~/`.
 import:
-  - /home/xtc/.config/alacritty/colorschemes/doom-one.yml
-  #- /home/xtc/.config/alacritty/colorschemes/atom-one-dark.yml
+  - /home/xtc/.config/alacritty/doom-one.yml
+  #- /home/xtc/.config/alacritty/atom-one-dark.yml
 
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
